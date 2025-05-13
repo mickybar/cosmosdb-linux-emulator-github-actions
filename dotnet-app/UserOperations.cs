@@ -1,5 +1,6 @@
 using Microsoft.Azure.Cosmos;
 
+
 namespace dotnet_app
 {
     public class User
